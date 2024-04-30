@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from api_requests import get_puuid, get_soloq_match_history, get_match_details
 from data_processing import process_and_store_matches, analizar_jugador_especifico, agregar_nuevas_partidas_a_csv
 import os
@@ -42,13 +41,3 @@ else:
         print(f"Análisis completado. Total de partidas analizadas: {len(all_partidas_data)}")
     else:
         print("No se encontraron partidas para analizar.")
-=======
-from match_extractor import extract_and_analyze_matches
-
-def main():
-    url = 'https://lol.fandom.com/wiki/T1/Match_History'  # Replace with the URL of the webpage containing the matches
-    extract_and_analyze_matches(url)
-
-if __name__ == "__main__":
-    main()
->>>>>>> 855a0e94289b0bd6982321868b444a28d2d55bb9
