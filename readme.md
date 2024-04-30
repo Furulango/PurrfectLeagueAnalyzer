@@ -6,7 +6,7 @@
   - [x] Install PostgreSQL on the server or local machine if not already installed.
   - [x] Create a new PostgreSQL database for the project.
 
-- [-] **Establish Relations:**
+- [ ] **Establish Relations:**
   - [x] Define the entities and their attributes.
   - [x] Design the database schema with appropriate tables and relationships.
   - [x] Determine primary keys, foreign keys, and constraints.
