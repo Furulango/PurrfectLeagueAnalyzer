@@ -2,20 +2,20 @@
 
 ## March 11, 2024
 
-- [ ] Visualize CS Progression
-   - [ ] Read match analysis data from the CSV file.
-   - [ ] Filter matches by the position.
-   - [ ] Calculate mean match duration and average CS per minute.
-   - [ ] Plot a line graph showing CS progression over time.
+- [x] Visualize CS Progression
+   - [x] Read match analysis data from the CSV file.
+   - [x] Filter matches by the position.
+   - [x] Calculate mean match duration and average CS per minute.
+   - [x] Plot a line graph showing CS progression over time.
 
 ## March 11, 2024
 
-- [ ] Import `pandas` and `matplotlib.pyplot` modules
-- [ ] Read the CSV file containing match analysis data
-- [ ] Filter matches where the position is BOTTOM and EarlySurrender is False
-- [ ] Convert the 'FechaCreacionPartida' column to datetime and sort
-- [ ] Calculate the mean duration of matches and average CS per minute
-- [ ] Plot a line graph of CS over time for BOTTOM position
+- [x] Import `pandas` and `matplotlib.pyplot` modules
+- [x] Read the CSV file containing match analysis data
+- [x] Filter matches where the position is BOTTOM and EarlySurrender is False
+- [x] Convert the 'FechaCreacionPartida' column to datetime and sort
+- [x] Calculate the mean duration of matches and average CS per minute
+- [x] Plot a line graph of CS over time for BOTTOM position
 
 ## March 10, 2024
 
