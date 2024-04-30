@@ -1,0 +1,9 @@
+# Ignorar un archivo específico
+# archivo_secreto.txt
+
+# Ignorar todos los archivos con extensión .log
+# *.log
+
+# Ignorar una carpeta completa
+matches/
+archivo.json
