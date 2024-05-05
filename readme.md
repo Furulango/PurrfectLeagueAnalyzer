@@ -1,5 +1,11 @@
 # TODO List
 
+## May 05/05/2024
+- [ ] **Connection with the Postgres Database**
+  - [ ] Extract the information directly to JSON before saving it again.
+  - [ ] Write and test the query.
+  - [ ] Debug any issues.
+
 ## April 29, 2024
 
 - [X] **Database Creation in PostgreSQL:**
